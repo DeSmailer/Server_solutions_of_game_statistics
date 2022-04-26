@@ -1,3 +1,1 @@
-# NetworkTestProject
-
-Developed with Unreal Engine 4
+Робота з курсу "Серверні рішення ігрової статистики"
